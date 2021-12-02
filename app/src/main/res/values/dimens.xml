@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="minimo">8dp</dimen>
+    <dimen name="medio">16dp</dimen>
+    <dimen name="maximo">24dp</dimen>
+    <dimen name="altura_foto">100dp</dimen>
+    <dimen name="altura_listview">200dp</dimen>
+
+</resources>

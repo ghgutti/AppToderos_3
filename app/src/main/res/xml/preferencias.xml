@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="check_box_preference"
+        android:title="Aceptar notifiaciones" />
+
+    <ListPreference
+        android:defaultValue="1"
+        android:key="list_preference"
+        android:title="Seleccione horario"
+        android:summary="Informacion de horario"
+        android:entries="@array/tipoHorario"
+        android:entryValues="@array/valorHorario"/>
+
+    <EditTextPreference
+        android:defaultValue="2"
+        android:key="edittext_preference"
+        android:title="Precio"
+        android:summary="Informacion del precio"/>
+
+    <SwitchPreference
+        android:defaultValue="true"
+        android:key="switch_preference"
+        android:title="Invitaciones"
+        android:summary="Recibir inivitacion"/>
+
+</PreferenceScreen>

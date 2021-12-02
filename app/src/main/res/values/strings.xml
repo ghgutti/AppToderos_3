@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">AppToderos</string>
+    <string name="ingrese_usuario">Ingrese_usuario</string>
+    <string name="ingrese_contrasena">Ingrese_contrasena</string>
+    <string name="login">login</string>
+    <string name="guardar">Guardar</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="email">Email</string>
+    <string name="telefono">Telefono</string>
+    <string name="nombre_completo">Nombre_completo</string>
+    <string name="registro">Registro</string>
+    <string name="inicio">Inicio</string>
+    <string name="registrar">Registrar</string>
+    <string name="imagen_principal">Imagen principal</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="ver">Ver</string>
+    <string name="quitar">Quitar</string>
+    <string name="notificacion">Notificacion</string>
+    <string name="saludo">Saludo</string>
+    <string name="archivo">Archivo</string>
+    <string name="configuracion">Configuracion</string>
+    <string name="title_activity_mapa">Mapa</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="tab1">Tab1</string>
+    <string name="tab2">Tab2</string>
+</resources>
